@@ -13,5 +13,4 @@ https://replit.com/@ssultana1771/Final-Python-Project-Tic-Tac-Toe
 Google Link
 https://colab.research.google.com/drive/17imfkKrpEIaXbeBi_nQiFIe5uqQ3CFhz?usp=sharing
 
-
-[Screen-Shot-2021-12-17-at-8-46-51-PM.png](https://postimg.cc/mzTr0y2F)
+[![Screen-Shot-2021-12-17-at-8-46-51-PM.png](https://i.postimg.cc/50CFQshp/Screen-Shot-2021-12-17-at-8-46-51-PM.png)](https://postimg.cc/mzTr0y2F)
