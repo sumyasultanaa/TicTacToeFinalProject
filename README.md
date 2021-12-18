@@ -1,7 +1,1 @@
-# myC
-# myC
-# myC
-# myC
-# myC
-# myC
-# myC
+# README.md for hw-1 / problem-1
