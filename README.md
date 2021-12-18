@@ -6,3 +6,12 @@ The purpose of my program is to conduct a game of Tic Tac Toe with two players e
 The purpose of my notebook is to easily run the code. I included comments to briefly describe each section of code as each algorithm has a specific purpose and set of functions. For instance, longest algorithm is in my while loop which accounts for several possible moves that the player could attempt and what the program will return to the player in response to their input. 
 
 I primarily worked on Google Colaboratory as it was easy to visualize and view errors.
+
+Repl.it Link
+https://replit.com/@ssultana1771/Final-Python-Project-Tic-Tac-Toe
+
+Google Link
+https://colab.research.google.com/drive/17imfkKrpEIaXbeBi_nQiFIe5uqQ3CFhz?usp=sharing
+
+
+[Screen-Shot-2021-12-17-at-8-46-51-PM.png](https://postimg.cc/mzTr0y2F)
